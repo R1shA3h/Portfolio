@@ -1,18 +1,18 @@
 const Services_Data = [
     {
         s_no:"01",
-        s_name:"Web design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Web development",
+        s_desc:"The Art of Transforming a Single Idea into a Digital Landscape, One Line of Code at a Time!"
     },
     {
         s_no:"02",
-        s_name:"Graphics design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Machine Intelligence",
+        s_desc:"Igniting the Spark of Intelligence in Machines, One Algorithm at a Time!"
     },
     {
         s_no:"03",
-        s_name:"Social media",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Blockchain",
+        s_desc:"The Digital Ledger Revolutionizing Trust and Transparency, One Block at a Time!"
     },
     // {
     //     s_no:"04",
