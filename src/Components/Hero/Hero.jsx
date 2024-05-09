@@ -17,7 +17,7 @@ const Hero = () => {
        }}
         mouseOptions={{
           zIndex: 10,
-          mixBlendMode: 'plus-lighter',
+          mixBlendMode:"difference",
           backgroundColor: "black",
           rotate: 360,
           backgroundElement: (
